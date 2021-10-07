@@ -54,7 +54,7 @@ CLIP_CHALLENGE_CONTROLLER.shop = async (req, res) => {
 
     //const access_token = user.userAuth.access_token;
     const access_token = '10772492-58a7-4a61-a6c3-64fb2ad51645';
-    console.debug("at-sce.controller.js - calculator - token-->", access_token);
+    console.debug("clip-challenge.controller.js - shop - token-->", access_token);
 
     const responseProducts = await CLIP_CHALLENGE_API_SERVICE.getAllProducts(user.id, access_token);
     console.debug("clip-challenge.controller.js - shop - Response-->", responseProducts);
