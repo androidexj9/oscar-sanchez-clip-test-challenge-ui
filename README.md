@@ -64,4 +64,4 @@ Heroku App QA - https://clip-test-challenge-ui-qa.herokuapp.com/ (Beta)
 | Oscar A. Sánchez | androidedj9@gmail.com |
 
 ## **Copyright / License**
-
+-
